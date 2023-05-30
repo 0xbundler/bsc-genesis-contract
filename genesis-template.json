@@ -21,12 +21,12 @@
     "planckBlock": 5,
     "lubanBlock": 6,
     "platoBlock": 7,
-    "claudeBlock": 50,
-    "elwoodBlock": 100,
+    "claudeBlock": 10,
+    "elwoodBlock": 20,
     "parlia": {
       "period": 3,
       "epoch": 200,
-      "stateEpochPeriod": 50
+      "stateEpochPeriod": 10
     }
   },
   "nonce": "0x0",
