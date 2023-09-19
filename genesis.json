@@ -24,7 +24,7 @@
       "period": 3,
       "epoch": 200,
       "stateEpoch1Block": 30,
-      "stateEpoch2Block": 30,
+      "stateEpoch2Block": 60,
       "stateEpochPeriod": 30
     }
   },
